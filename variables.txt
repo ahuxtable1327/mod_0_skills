@@ -1,0 +1,13 @@
+var famousPerson = "Andrew Bird"
+var isActive = true
+famousPerson = "Maya Rudolph"
+
+var num3 = 5
+var num9 = 10
+var sum = num3 + num9
+
+var animals = ["dog", "cat", "tiger"]
+animals.shift();
+console.log(animals)
+
+console.log(`${famousPerson} ${famousPerson.length}`);
