@@ -1,0 +1,15 @@
+Class: Grade
+
+Attributes:
+
+numOfStudents (integer)
+classes ([array])
+alternateName ("string")
+hasPrivileges (boolean)
+
+Methods:
+
+addStudent (updates numOfStudents attribute)
+dropClass (updates classes attribute)
+passGrade (updates alternateName attribute)
+becomeSenior (updates hasPrivileges attribute)
