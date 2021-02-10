@@ -1,0 +1,15 @@
+Instance: EleventhGrade
+
+Attributes:
+
+numOfStudents = 120
+classes = ["AP Biology", "English Lit","Calculus", "US History"]
+alternateName = "Juniors"
+hasPrivileges = false
+
+Methods:
+
+addStudent (numOfStudents = 121)
+dropClass (classes = ["AP Biology", "English Lit", "Calculus"])
+passGrade (alternateName = "Seniors")
+becomeSenior (hasPrivileges = true)
