@@ -1,0 +1,15 @@
+Class: Room
+
+Attributes:
+
+number (integer)
+itemsOnDesk ([array])
+isAvailable (boolean)
+subjectTaught ("string")
+
+Methods:
+
+changeRoom (updates number attribute)
+openBookBag (updates itemsOnDesk attribute)
+startClass (updates isAvailable attribute)
+changePeriod (updates subjectTaught attribute)
