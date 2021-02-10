@@ -1,0 +1,15 @@
+Instance: ClassRoom
+
+Attributes:
+
+number = 12
+itemsOnDesk = ["pencil", "paper", "eraser"]
+isAvailable = true
+subjectTaught = "Calculus"
+
+Methods:
+
+changeRoom (number = 15)
+openBookBag (itemsOnDesk = ["pencil", "paper", "eraser", "highlighter"])
+startClass (isAvailable = False)
+changePeriod (subjectTaught = "Biology")
