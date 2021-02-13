@@ -11,5 +11,5 @@ Methods:
 
 changeRoom (number = 15)
 openBookBag (itemsOnDesk = ["pencil", "paper", "eraser", "highlighter"])
-startClass (isAvailable = False)
+startClass (isAvailable = false)
 changePeriod (subjectTaught = "Biology")
